@@ -1,0 +1,17 @@
+{
+  "name": "دوري صراع النخبة | CLASH OF ELITES",
+  "short_name": "صراع النخبة",
+  "description": "منصة إدارة منافسات دوري صراع النخبة، لوحة نتائج المباريات الحية، والتحكم من الهاتف",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070B19",
+  "theme_color": "#070B19",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

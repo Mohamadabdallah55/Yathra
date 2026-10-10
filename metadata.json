@@ -1,0 +1,6 @@
+{
+  "name": "دوري صراع النخبة",
+  "description": "منصة دوري صراع النخبة لإدارة منافسات الفرق الستة، لوحة نتائج المباريات الحية، جدول الترتيب المباشر، ومحرك Ban & Pick للألعاب الخمسة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
